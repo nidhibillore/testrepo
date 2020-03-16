@@ -6,3 +6,5 @@ last commit
 
 
 changes on master branch
+
+changes on newbranch1
